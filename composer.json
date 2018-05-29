@@ -1,0 +1,12 @@
+{
+    "name": "harkhasien/weather",
+    "authors": [
+        {
+            "name": "Thomas SIMOES",
+            "email": "simoes_t@etna-alternance.net"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.4"
+    }
+}
